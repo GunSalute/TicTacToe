@@ -19,7 +19,7 @@ int main()
         string playerOne;
         string playerTwo;
         string currentPlayer;
-        //string reply;
+
         string y;
         string n;
 
