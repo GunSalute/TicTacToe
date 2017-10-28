@@ -101,7 +101,7 @@ int checkwin (char square[])//checking if any of the players have 3 in a row. Th
         return 0;
 }
 
-void board(char square []) //this is creating the visual board
+void board(char square [])
 {
     system("cls");
     cout << "     |     |     " << endl;
